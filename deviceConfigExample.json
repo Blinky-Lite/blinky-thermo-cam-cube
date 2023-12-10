@@ -1,0 +1,12 @@
+{
+    "box"           :   "blinkybox-04",
+    "trayType"      :   "blinky-thermo-cam",
+    "trayName"      :   "01",
+    "cubeType"      :   "cube",
+    "mqttServerIp"  :   "192.168.0.196",
+    "mqttUserName"  :   "blinkybox-04",
+    "mqttPassword"  :   "xxxxxx",
+    "ssid"          :   "yyyyyy",
+    "ssidPw"        :   "zzzzzz",
+    "wifiCountry"   :   "SE"
+}
